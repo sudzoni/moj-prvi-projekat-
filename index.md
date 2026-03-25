@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Moj prvi sajt</title>
+</head>
+<body>
+  <h1>Zdravo, ja sam Nikola</h1>
+  <p>Ovo je moj prvi fajl na GitHub-u.</p>
+</body>
+</html>
